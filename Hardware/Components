@@ -16,13 +16,13 @@ Pump Control
 
 Power
 | Component | Quantity | Manufacturer/Model | Purpose |
-| 5V DC Power Supply | 1 | 	Shenzhen Honor Electronic Co., 5V | Powers electronics |
-| Power Supply Module | 1 | Elegoo | Powers esp32 & miscellaneous electronics |
-| 9V Power Supply | 1 | 
+| 5V DC Power Supply (USB-A Brick) | 1 | 	Shenzhen Honor Electronic Co., 5V | Powers electronics |
+| USB-A to Bare Wire | 1 | Generic | Connection between Power Brick & Circuit |
 
 Electrical 
 | Component | Quantity | Manufacturer/Model | Purpose |
-Male-to-Female Jumper Cables | 8 | Generic | Used to hookup HX711, MOSFET Module, and Power Supply Module to ESP32|
+Male-to-Female Jumper Cables | 6 | Generic | Used to hookup HX711, MOSFET Module, and Power Supply Module to ESP32|
+| Male to Bare Wire | 2 | Generic | Connection from ESP32 to power source |
 Hookup Wire | 2 | Generic | Used to connect 5KG Load Cell to HX711 |
 Breadboard | 2 | Elegoo | Used to lay ESP32 & Power Supply Module and connect essential electrical components |
 
