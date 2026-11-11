@@ -1,0 +1,34 @@
+Components List
+
+Microcontroller
+| Component | Quantity | Manufacturer/Model | Purpose |
+| ESP32 Development Board | 1 | Espressif | Main controller |
+
+Weight Measurement
+| Component | Quantity | Manufacturer/Model | Purpose |
+| 5kg Load Cell | 1 |  Hobby Components MPS20N0040D-D (HCSENS0009) | Measures water bowl weight |
+| HX711 Amplifier | 1 | Hobby Components HCMODU0073 | Converts load cell signal |
+
+Pump Control
+| Component | Quantity | Manufacturer/Model | Purpose |
+| XY-MOS MOSFET Module | 1 | XY-MOS (unidentified MOSFET) | Controls water pump |
+| 5V DC Water Pump | 1 | 	DaToo DT-D103 | Pumps water |
+
+Power
+| Component | Quantity | Manufacturer/Model | Purpose |
+| 5V DC Power Supply | 1 | 	Shenzhen Honor Electronic Co., 5V | Powers electronics |
+| Power Supply Module | 1 | Elegoo | Powers esp32 & miscellaneous electronics |
+| 9V Power Supply | 1 | 
+
+Electrical 
+| Component | Quantity | Manufacturer/Model | Purpose |
+Male-to-Female Jumper Cables | 8 | Generic | Used to hookup HX711, MOSFET Module, and Power Supply Module to ESP32|
+Hookup Wire | 2 | Generic | Used to connect 5KG Load Cell to HX711 |
+Breadboard | 2 | Elegoo | Used to lay ESP32 & Power Supply Module and connect essential electrical components |
+
+Mechanical
+| Component | Quantity | Manufacturer/Model | Purpose |
+| 3D Printed Enclosure | 1 | PLA (3D Printed) | Houses electronics |
+| 3D Printed Water Resevoir | 1 | PLA (3D Printed) | Houses water supply |
+| 3D Printed Load Cell Enclosure + Water Bowl | 1 | PLA (3D Printed) | Houses load cell with water bowl |
+| Tubing | 1 | Generic | Directs water flow |
