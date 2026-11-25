@@ -35,6 +35,8 @@ Solution: 3D print washers for the cable gland to fill in the missing contact po
 Status: Complete
 
 <img width="3024" height="4032" alt="Cable Gland 3D Printed Washers" src="https://github.com/user-attachments/assets/6d630b07-5bdd-41ac-9953-6304ea8e25fe" />
+<img width="4284" height="5712" alt="Cable Gland Setup" src="https://github.com/user-attachments/assets/85dcd532-0427-468d-acff-a9a147d14cb0" />
+
 
 
 
