@@ -32,7 +32,10 @@ Results: When water was poured in the resevoir, both cable glands started drippi
 
 Solution: 3D print washers for the cable gland to fill in the missing contact points and block the water from seeping into the electronics box. 
           
-Status: In Progress
+Status: Complete
+
+<img width="3024" height="4032" alt="Cable Gland 3D Printed Washers" src="https://github.com/user-attachments/assets/6d630b07-5bdd-41ac-9953-6304ea8e25fe" />
+
 
 
 
