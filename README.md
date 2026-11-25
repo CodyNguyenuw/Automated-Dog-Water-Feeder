@@ -4,9 +4,9 @@ This project combines embedded systems, sensor integration, basic circuit design
 
 Objectives
 
-Monitor water consumption using a load cell.
-Measure bowl weight through an HX711 load cell amplifier.
-Use an ESP32 to process sensor measurements.
-Integrate Wi-Fi connectivity for remote monitoring and notifications.
-Automate water dispensing using a 5V DC water pump.
-Design and 3D print a compact enclosure to house the electronics and water reservoir.
+-Monitor water consumption using a load cell.
+-Measure bowl weight through an HX711 load cell amplifier.
+-Use an ESP32 to process sensor measurements.
+-Integrate Wi-Fi connectivity for remote monitoring and notifications.
+-Automate water dispensing using a 5V DC water pump.
+-Design and 3D print a compact enclosure to house the electronics and water reservoir.
